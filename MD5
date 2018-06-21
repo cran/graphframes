@@ -1,4 +1,4 @@
-cdd3c740d6794b23c733a97155ad2f7a *DESCRIPTION
+d48acaad2b465cc4c112093088c919cb *DESCRIPTION
 e3fc50a88d0a364313df4b21ef20c29e *LICENSE
 e0a213e532222886ae8ae3d3afbc703f *NAMESPACE
 6e1d0de3ddc7dfaeb5a8410a18e509fa *R/dependencies.R
@@ -12,7 +12,7 @@ a8d7feb401c3a6af7b6047854c8deeb5 *R/gf_interface.R
 babc1bb050a11450bc6c8321868d9e66 *R/gf_shortest_paths.R
 603795af07964544422ad388c1ae9be8 *R/gf_triangle_count.R
 cf966aa66fb671aced8d27d88020f3a0 *R/imports.R
-bf04a780fe59edfe16ff81e77f491edf *README.md
+ed7f47cd51919bf656e931aa40f96922 *README.md
 0348be363f1f158d0e19dd846ac2a123 *man/gf_bfs.Rd
 6e1dad293e0a93351e7a22ab5ed5a39d *man/gf_cache.Rd
 45b73631931f2aa0f51d32c971a13346 *man/gf_chain.Rd
@@ -48,10 +48,10 @@ d488672d3c0239c696e0a4252100313e *man/spark_graphframe.Rd
 fbeb8ca7015ccf21c23e30c9c4f5a00a *tests/testthat/output/gf_degrees.txt
 611e7775dee2f401bf47c616fbbc5a53 *tests/testthat/output/gf_find.txt
 ed91d85ad88c34d381b90e0de5ac0dd5 *tests/testthat/output/gf_out_degrees.txt
-938b63c6dc0d313c475d6f081a9dc7e6 *tests/testthat/output/gf_pagerank.txt
+2d818d58c0734196927fb5f118ec2870 *tests/testthat/output/gf_pagerank.txt
 3c78f256da8c47ab8bee60b7cfa6fbec *tests/testthat/output/gf_shortest_paths.txt
 9597a63691f004cb87cf8bc250014847 *tests/testthat/output/gf_star.txt
-799ff6c1b6bcea0e088658d9af27bb3b *tests/testthat/output/gf_triangle_count.txt
+aa9ba4a027e77eb101a0bb2c3c61986c *tests/testthat/output/gf_triangle_count.txt
 cd314ab4c2a47bc752530e58285affe0 *tests/testthat/output/triplets.txt
 bb8f001e152476633bd50c27044967af *tests/testthat/output/two_blobs.txt
 8d6ffd957d68ed3ddb7608bdb01eae6d *tests/testthat/test-gf-algos.R
